@@ -1,4 +1,4 @@
-# diagnosing-diabetes
+# Diagnosing diabetes
 **Task**
 
 The following dataset is sourced from the Indian National Institute for Diabetes and Kidney Diseases. The goal is to predict whether a patient has diabetes based on diagnostic measurements.
