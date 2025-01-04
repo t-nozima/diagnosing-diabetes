@@ -3,7 +3,6 @@
 
 The following dataset is sourced from the Indian National Institute for Diabetes and Kidney Diseases. The goal is to predict whether a patient has diabetes based on diagnostic measurements.
 
-
 **Dataset Information**
 
 All patients in the dataset are at least 21-year-old females.
@@ -20,4 +19,4 @@ All patients in the dataset are at least 21-year-old females.
 - Age: Age (years)
 - Outcome: Class (0 - no diabetes, 1 - diabetes)
 
-Dataset: [Diabetes dataset link](https://github.com/anvarnarz/praktikum_datasets/blob/main/diabetes.csv)
+Dataset: https://github.com/anvarnarz/praktikum_datasets/blob/main/diabetes.csv
